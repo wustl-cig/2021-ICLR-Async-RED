@@ -27,7 +27,7 @@ $ python demo_asyncRED.py
 
 To try with different settings, please open the script and follow the instruction inside.
 
-### Citation
+## Citation
 Y. Sun, J. Liu, Y. Sun, B. Wohlberg, and U. S. Kamilov, “Async-RED: A Provably Convergent Asynchronous Block Parallel Stochastic Method using Deep Denoising Priors,” Proc. Int. Conf. Learn. Represent. (ICLR 2021) (Vienna, Austria, May 4-8).
 ```
 @inproceedings{
