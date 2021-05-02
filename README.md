@@ -5,13 +5,13 @@ Regularization by denoising (RED) is a recently developed framework for solving 
 ## How to run the code
 
 ### Prerequisites
-
+```
 python 3.6  
 tensorflow 1.12  
-scipy 1.2.1
-numpy v1.17
+scipy 1.2.1  
+numpy v1.17  
 matplotlib v3.3.4
-
+```
 It is better to use Conda for installation of all dependecies.
 
 ### Run the Demo
