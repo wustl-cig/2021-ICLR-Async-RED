@@ -1,0 +1,2 @@
+model_checkpoint_path: "/export/project/sun.yu/projects/2020-SSZK-AsyncBCRED/CNN/DnCNN_lip=2_denoise/gpu1/models/final/model"
+all_model_checkpoint_paths: "/export/project/sun.yu/projects/2020-SSZK-AsyncBCRED/CNN/DnCNN_lip=2_denoise/gpu1/models/final/model"
